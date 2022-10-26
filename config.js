@@ -143,7 +143,7 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT ˘ฅ ꒱ ‧₊˚꒷
 global.wm3 = '⫹⫺ WH-MODS-BOT '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-BOTp`
+global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-BOT`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
 global.author = '                「 WH-MODS-BOT  あ」'
 
